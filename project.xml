@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+    <meta title="Bweh" package="bweh" version="1.0.0" company="XMAS*CAKE" />
+    <app main="Main" path="Export" file="Bweh" />
+
+    <source path="Source" />
+
+    <haxelib name="openfl" />
+
+    <assets path="Assets" rename="assets" exclude="openfl.svg" />
+    <icon path="Assets/openfl.svg" />
+
+</project>
